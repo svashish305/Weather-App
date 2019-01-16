@@ -1,8 +1,9 @@
 # Weather-App
 Weather App using NodeJS
+```
 Add required node-modules using package.json by typing: npm install
 Clone the repository in your local directory 
-and open terminal/cmd in that directoory 
+and open terminal/cmd in that directory 
 and type npm install
 
 For help:
@@ -18,5 +19,6 @@ If result is undefined,
 rerun as this may happen due to internet connectivity issues. 
 Once the result comes, 
 you can see the full location, 
-temperature, cuurent weather stats,
+temperature, current weather stats,
 the day's forecast as well as weekly forecast. 
+```
